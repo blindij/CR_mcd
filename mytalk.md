@@ -1,35 +1,28 @@
 class: center, middle
 
-# Simple example presentation
+# Modular Code Development - what to do?
 
-## Author
-
----
-
-## Another slide
-
-Try **F** and **P** keys.
-
-- A bullet point
-- Another convincing argument
+## Bjørn Lindi, NTNU
 
 ---
 
-## Code blocks are no problem
+## How it is beeing teached.
 
-Here we have some Python code:
+Radovan demonstrate how a simple script can be made more general.
+The purpose of making it more general is that the script can find more use.
 
-```python
-from itertools import cycle
+![temperature](asset/temperature.png)
+---
 
-fizz = cycle(['', '', 'Fizz'])
-buzz = cycle(['', '', '', '', 'Buzz'])
+## Pros and cons with the current lesson
 
-for i in range(1, 101):
-    print((next(fizz) + next(buzz)) or i)
-```
+- pros:
+    - enages some participants through the HackMD with suggestions on how to proceed
 
-[Source](https://github.com/olemb/nonsense/blob/master/fizzbuzz/itertools_cycle.py)
+- cons:
+    - engages only parts of the audience
+    - Can anyone else than RB do this lesson?
+
 
 ---
 
