@@ -32,7 +32,7 @@ The purpose of making it more general is that the script can find more use.
 - We have a [presentation](https://github.com/coderefinery/modular-code-development/blob/master/talk.md) on modular code development. The presentation is 15-20 minutes long.
 - The lesson ends with group work and a plenum discussion on different aspects modular code development (physical CodeRefinery lesson)
 
-[Sample image](https://github.com/coderefinery/modular-code-development/blob/master/img/development-speed.svg)
+![Sample image](https://github.com/coderefinery/modular-code-development/blob/master/img/development-speed.svg)
 
 ---
 ## Images
