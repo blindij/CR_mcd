@@ -11,7 +11,8 @@ class: center, middle
 Radovan demonstrate how a simple script can be made more general.
 The purpose of making it more general is that the script can find more use.
 
-![temperature](asset/temperature.png)
+Image to get started: `The curse of bad code design <https://doi.org/10.1371/journal.pcbi.1008549.g005>`_
+(Ten simple rules for quick and dirty scientific programming. PLoS Comput Biol 17(3): e1008549. https://doi.org/10.1371/journal.pcbi.1008549)
 ---
 
 ## Pros and cons with the current lesson
