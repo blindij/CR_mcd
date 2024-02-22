@@ -17,16 +17,24 @@ The purpose of making it more general is that the script can find more use.
 
 ## Pros and cons with the current lesson
 
-- pros:
-    - enages some participants through the HackMD with suggestions on how to proceed
+- Pros:
+    - Enages participants through the HackMD with suggestions on how to proceed.
 
-- cons:
-    - engages only parts of the audience
-    - Can anyone else than RB do this lesson?
+- Cons:
+    - Engages only parts of the audience.
+    - Have anyone else than RB do this lesson?
 
 
 ---
 
+## What other approached have we tried?
+
+- We have a [presentation](https://github.com/coderefinery/modular-code-development/blob/master/talk.md) on modular code development. The presentation is 15-20 minutes long.
+- The lesson ends with group work and a plenum discussion on different aspects modular code development (physical CodeRefinery lesson)
+
+[Sample image](https://github.com/coderefinery/modular-code-development/blob/master/img/development-speed.svg)
+
+---
 ## Images
 
 An image fetched from the web:
